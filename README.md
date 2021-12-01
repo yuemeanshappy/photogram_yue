@@ -2,19 +2,21 @@
 Detailed Notes about how to do photogrammetry with command line based open source software.
 
 ## Preparation
-- a colorful color checker *the color checker is X-Rite ColorChecker Passport Photo 2 in this case*
+- a colorful color checker 
+the color checker is *X-Rite ColorChecker Passport Photo 2* in this case
 - a black and white color checker
-- a set of photos from different angles and focus distances *a single flower of Pedicularis cranolopha in this case*
+- a set of photos from different angles and focus distances 
+*a single flower of Pedicularis cranolopha in this case*
 
 ## I. Color calibration
-1. OpenCV
+**1. OpenCV**
 - install
 ```bash
 conda install opencv
 ````
 - use
 
-3. PlantCV
+**2. PlantCV**
 - install
 
 
