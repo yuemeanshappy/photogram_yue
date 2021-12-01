@@ -2,10 +2,10 @@
 Detailed Notes about how to do photogrammetry with command line based open source software.
 
 ## Preparation
-- a colorful color checker 
+- a colorful color checker\
 the color checker is *X-Rite ColorChecker Passport Photo 2* in this case
 - a black and white color checker
-- a set of photos from different angles and focus distances 
+- a set of photos from different angles and focus distances\ 
 *a single flower of Pedicularis cranolopha in this case*
 
 ## I. Color calibration
