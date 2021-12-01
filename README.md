@@ -6,7 +6,7 @@ Detailed Notes about how to do photogrammetry with command line based open sourc
 the color checker is *X-Rite ColorChecker Passport Photo 2* in this case
 - A black and white color checker
 - A set of photos from different angles and focus distances\
-a single flower of Pedicularis cranolopha in this case
+a single flower of *Pedicularis cranolopha* in this case
 
 ## I. Color calibration
 **1. OpenCV**
