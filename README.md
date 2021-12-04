@@ -17,9 +17,11 @@ conda install opencv
 - use
 
 **2. PlantCV**
-- install
-
-
+- install with conda
+```bash
+conda install opencv
+````
+- use
 
 
 
