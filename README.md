@@ -8,13 +8,12 @@ Detailed Notes about how to do photogrammetry with command line based open sourc
 
 **3. focus stacking:** merge multiple images of the same angle and rotation into a single image
 
-**4. establish model**
-
+**4. establish model**\
     a. build mask: mask the background so that the background would not interrupt the image alignment process\
     b. align photos: align photos according to the camera positions\
     c. build mesh: build the structure/skeleton of the object\
     d. build texture: add color and texture to the physical structure\
-    e. scale model based on marks\\
+    e. scale model based on marks
 
 ## Preparation
 - A colorful color checker and a black/white color checker for color calibration\
