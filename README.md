@@ -58,6 +58,9 @@ conda install opencv
 Notes:\
 Adobe Lightroom is relatively user friendly. ~800 photos takes ~0.5 hours. However, there is no command line version of this software, and it can become very repetitive if we have more than ten sets of photos to deal with (with 10 times of clicks and waiting for the results)
 
+<img src="/images/right is after calibration.PNG" width="300">
+Before(left) and After(right) calibration (_P. cranolopha_)
+
 ## II. Cluster photos by angles and rotations
 Refer to python scripts
 
