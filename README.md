@@ -67,7 +67,7 @@ The user guide of [Helicon Focus](https://www.heliconsoft.com/focus/help/english
 The output format of the file could be `dng` or `jpeg`.
 ```bash
 # ~/HeliconFocus is the install location on the mac
-/Applications/HeliconFocus.app/Contents/MacOS/HeliconFocus -silent -i /path/to/the/input/files -o /path/to/the/output/files -mp:1 -rp:8 -sp:4
+/Applications/HeliconFocus.app/Contents/MacOS/HeliconFocus -silent /path/to/the/input/files -save:/path/to/the/output/files -mp:1 -rp:8 -sp:4
 mp: method
 rp: radius
 sp: smoothing
