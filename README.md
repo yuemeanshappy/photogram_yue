@@ -38,20 +38,20 @@ conda install opencv
 **(1) download Xrite Color Checker Camera Calibration software and Adobe DNG converter software**
 
 **(2) create color profile**\
-  a. open Adobe lightroom, click on `File` > `Export` > `Plug-in Manager` > `add`
+  a. open Adobe lightroom, click on `File` > `Plug-in Manager` > `add`
   
-  b. navigate to `Library` > `Application Support` > `Adobe` > `Lightroom` > `Modules` > `XRiteColorCheckerPassport.Irplugin` > `Add Plug-in`
+  b. navigate to `Library` > `Application Support` > `Adobe` > `Lightroom` > `Modules` > `XRiteColorCameraCalibration.Irplugin` > `Add Plug-in`
   
-  c. click on the color chart, then `File` > `Export` > `Choose Xrite presets from the drop down menu`
+  c. click on the color chart, then `File` > `Export with preset` > Choose `Xrite presets` from the drop down menu
   
   d. name the profile and `export`
   
 **(3) apply color profile to all images and export color calibrated images**\
   a. open Adobe Lightroom, select `Development`
   
-  b. select the first photo, and choose the color profile created in the last step under the `Camera Calibration drop down menu`
+  b. select the first photo, and choose the color profile created in the last step in 'Basic` > `profile`
   
-  c. select all photos and click `synchronize`
+  c. select all photos and click `synchronize`, choose color calibration only
   
   d. select all photos and click `File` > `Export`
   
