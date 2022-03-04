@@ -75,6 +75,7 @@ mp: method
 rp: radius
 sp: smoothing
 ````
+For batch processing in command lines, refer to python scripts
 
 ## IV. Establish model
 ### 4.1 remove background of images (build masks on the background)
