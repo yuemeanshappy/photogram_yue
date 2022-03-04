@@ -62,7 +62,7 @@ Adobe Lightroom is relatively user friendly. ~800 photos takes ~0.5 hours. Howev
 Before(left) and After(right) calibration
 
 ## II. Cluster photos by angles and rotations
-Refer to python scripts
+Refer to python scripts (cluster_photos_by_time_intervals.py)
 
 ## III. Focus stacking
 We used Helicon Focus to do the focus stacking (command lines)\
@@ -75,7 +75,7 @@ mp: method
 rp: radius
 sp: smoothing
 ````
-For batch processing in command lines, refer to python scripts
+For batch processing in command lines, refer to python scripts(helicon_focus.py)
 
 ## IV. Establish model
 ### 4.1 remove background of images (build masks on the background)
