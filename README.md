@@ -84,8 +84,8 @@ There are two ways to remove background of images. The first one is to use batch
 The second method requires images of the same size and the same resolution, so we need to use Photoshop to resize the images (dimensions: 5400 * 3600, resolution: 1520 * 1520, why? because the raw file has the similar size of dimensions and the same resolution )and set the output file format as tiff. 
 IMPORTANT: need to choose the correct profile when open the dng file in Camera raw and use this and embed profile when save image.
 <img src="/images/photoshop.png" width="300">
-
-The color profile in red square should be the same as the dng file info
+<img src="/images/photoshop_profile_choice.png" width="300">
+The color profile in red square should be the same
 
 **1. check the dimensions and resolutions of image (.dng)**\
 ```bash
