@@ -79,9 +79,11 @@ For batch processing in command lines, refer to python scripts(helicon_focus.py)
 
 ## IV. Establish model
 ### 4.1 remove background of images (build masks on the background)
-There are two ways to remove background of images. The first one is to use batch process in Adobe Photoshop to fill the object in white color and fill the background with black color. However, this method is not always successful since the Photoshop cannot capture the object very well. 
+There are two ways to remove background of images. The first one is to use batch process in Adobe Photoshop to fill the object in white color and fill the background with black color. This method works pretty well for single image, but will usually fail (cannot capture the flower) in batch process. 
 
 The second method requires images of the same size and the same resolution, so we need to use Photoshop to resize the images (dimensions: 5400 * 3600, resolution: 1520 * 1520, why? because the raw file has the similar size of dimensions and the same resolution )and set the output file format as tiff. 
+IMPORTANT: need to choose the correct profile when open the dng file in Camera raw and use this and embed profile when save image.
+
 
 **1. check the dimensions and resolutions of image (.dng)**\
 ```bash
