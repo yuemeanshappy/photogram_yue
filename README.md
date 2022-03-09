@@ -56,7 +56,7 @@ conda install opencv
   d. select all photos and click `File` > `Export`
   
 Notes:\
-Adobe Lightroom is relatively user friendly. ~800 photos takes ~0.5 hours. However, there is no command line version of this software, and it can become very repetitive if we have more than ten sets of photos to deal with (with 10 times of clicks and waiting for the results)
+Adobe Lightroom is relatively user friendly. ~800 photos takes ~0.5 hours (most of the time is spent on file exporting). However, there is no command line version of this software, and it can become very repetitive if we have more than ten sets of photos to deal with (with 10 times of clicks and waiting for the results)
 
 <img src="/images/right is after calibration.png" width="300">
 Before(left) and After(right) color calibration
