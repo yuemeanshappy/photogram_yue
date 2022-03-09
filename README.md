@@ -51,7 +51,7 @@ conda install opencv
   
   b. select the first photo, and choose the color profile created in the last step in 'Basic` > `profile`
   
-  c. select all photos and click `synchronize`, choose color calibration only
+  c. select all photos and click `synchronize`, choose `Treatment & profile` and `color calibration` 
   
   d. select all photos and click `File` > `Export`
   
