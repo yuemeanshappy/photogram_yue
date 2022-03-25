@@ -128,7 +128,7 @@ Notes:\
 For 134 images, there would be 20 min for photo alignments. (Mask building can significantly improve the alignment speed! Otherwise, might need 1 hour to align photos with background)
 
 ### 4.3 build mesh
-Go to `workflow` > click `build mesh` > set `source data` as `depth maps` > set `quality` and `face count` as `high` > in the advanced section, select `calculate vertex color` > click  `ok`\
+Go to `workflow` > click `build mesh` > set `source data` as `depth maps` > set `quality` and `face count` as `high` > set `depth filtering` as `moderate`> in the advanced section, select `calculate vertex color` > click  `ok`\
 (We can smooth the mesh although I think there is no significant difference before/after smoothing process. Also, we can fill holes by `Tools`>`Mesh`>`close holes`. If the hole is too large, there is another way as said in the manual that we need to build dense cloud between photo alignment and mesh building, and set one of the parameter as certain value so that the software will automatically build a mesh without holes)
 
 Notes:\
