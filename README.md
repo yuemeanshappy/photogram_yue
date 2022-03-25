@@ -111,8 +111,9 @@ c. `save` images as `tiff` in a new file directionary or within the same directi
  **(2) Batch process images**\
        Click `File` > `Automate` > `Batch` > select the input file source and output file source > `OK`
 
-**3. Use Agisoft Metashape to build mask**\
-     a. select anyone of the output images and fill it with black in Photoshop (`Select all` > `Fill` > `Black`) and name it as background.tiff
+**3. Use Agisoft Metashape to build mask**
+
+     a. select any one of the output images and fill it with black in Photoshop (`Select all` > `Fill` > `Black`) and name it as background.tiff
      
      b. open agisoft metashape and add all images that we are going to use
      
