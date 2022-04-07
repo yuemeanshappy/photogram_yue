@@ -15,7 +15,7 @@ Detailed Notes about how to do photogrammetry with command line based open sourc
 **d. build texture:** add color and texture to the physical structure\
 **e. scale model based on marks**
 
-**5. export model and sharing
+**5. export model and sharing**
 
 ## Preparation
 - A colorful color checker and a black/white color checker for color calibration\
@@ -142,10 +142,10 @@ Go to `workflow` > click `build texture` > use the default setting and click ok
 ### 4.5 LAST STEP! scale the model based on the markers
 Randomly choose three images. Clik the image > Add markers on the start and end side of the ruler > Select the markers (e.g. point1 and point2, point3 and point4, point5 and point6) in the marker panel at the same time > add scale bar > set the distance between two markers > `update tranform`
 
-## 5. Export model and sharing
+## V. Export model and sharing
 ### 5.1 Export model
 Go to `File` > `Export` > `Export model` > choose `ply` extension and `Save` > Select `Export Texture` as JPEG and export vertex color as well.
 
 ### 5.2 Sharing
-Upload ply file in github and copy the URL. Open URL in [Online 3D Viewer website] (https://3dviewer.net/). Share with Link or Embedding code from the website.
+Upload ply file in github and copy the URL. Open URL in [Online 3D Viewer website](https://3dviewer.net/). Share with Link or Embedding code from the website.
 
