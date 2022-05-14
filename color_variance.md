@@ -16,7 +16,7 @@ potential software:
 
 **patternize: 2D image alignment and color categorization**
 - 2D image alignment
-  - landmark based: 
+  - landmark based:\
     1)[affine](https://blog.csdn.net/u011681952/article/details/98942207)(unifrom changes);\
     2)[TPS](https://khanhha.github.io/posts/Thin-Plate-Splines-Warping/), thin plate spline (non-unifrom changes) 
   - image registration: LTS, least trimmed square
