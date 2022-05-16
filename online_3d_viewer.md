@@ -24,7 +24,7 @@
 
 6. [fletcheri_JJ89](https://3dviewer.net#model=https://raw.githubusercontent.com/yuemeanshappy/photogram_yue/main/3D%20models/fletcheri_JJ89.ply)
 
-[fletcheri_JJ89_inside](https://3dviewer.net#model=https://raw.githubusercontent.com/yuemeanshappy/photogram_yue/main/3D%20models/fletcheri_JJ89_inside.ply)
+   [fletcheri_JJ89_inside](https://3dviewer.net#model=https://raw.githubusercontent.com/yuemeanshappy/photogram_yue/main/3D%20models/fletcheri_JJ89_inside.ply)
 
 7. [laiguensis_JJ109](https://3dviewer.net#model=https://raw.githubusercontent.com/yuemeanshappy/photogram_yue/main/3D%20models/laiguensis_JJ109.ply)
 
