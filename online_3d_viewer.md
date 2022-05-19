@@ -1,8 +1,10 @@
 # Species list
+Links are to the 3d models
+
 1. *P. alaschanica*
 2. *P. anas*
 3. *P. armata*
-<img src="/images/P_armata.jpg" width="500">
+<img src="/images/P_armata.jpg" width="300">
 
 5. *P. axillaris*
 6. *P. batangensis*
@@ -10,7 +12,7 @@
 8. *P. brevilabris*
 10. *P. cephalantha*
 11. *P. chinensis*
-<img src="/images/P_chinensis.jpg" width="500">
+<img src="/images/P_chinensis.jpg" width="300">
 
 13. *P. chumbica*
 14. *P. cinerascens*
@@ -30,7 +32,7 @@
 <img src="/images/P_cranolopha_longicornata_medium.jpg" width="500">
 
 - var. *longicornuta* (large folks)
-<img src="/images/P_cranolopha_longicornata_large.jpg" width="500">
+<img src="/images/P_cranolopha_longicornuta_large.jpg" width="500">
 
 - [var. *tricolor*](https://3dviewer.net#model=https://raw.githubusercontent.com/yuemeanshappy/photogram_yue/main/3D%20models/cranolopha_tricolor_like_DE734.ply)
 <img src="/images/P_cranolopha_tricolor.jpg" width="500">
