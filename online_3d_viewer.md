@@ -17,37 +17,40 @@
 - small folks
 - medium folks
 - large folks
-16. *P. cyanthophylloides*
-17. *P. cyathophylla*
-18. *P. davidii*
-19. *P. decorissima*
-20. *P. densispica*
-21. *P. dichotoma*
-22. *P. fletcheri*
-23. *P. ingens*
-24. *P. integrifolia*
-25. *P. kansuensis*
-26. *P. lachnoglossa*
-27. *P. laiguensis*
-28. *P. latituba*
-29. *P. longiflora*
-30. *P. lutescens*
-31. *P. macrosiphon*
-32. *P. metazetchuanica*
-33. *P. mussotii*
-34. *P. prezewalskii*
-35. *P. pseudomelampyriflora*
-36. *P. rex*
-37. *P. rhinanthoides*
-38. *P. rhodotricha*
-39. *P. rhynchodonta*
-40. *P. semitorta*
-41. *P. siphonantha*
-42. *P. souliei*
-43. *P. torta*
-44. *P. tricolor*
-45. *P. urceolata*
-
+15. *P. cyanthophylloides*
+16. *P. cyathophylla*
+17. *P. davidii*
+18. *P. decorissima*
+19. *P. densispica*
+20. *P. dichotoma*
+21. *P. fletcheri*
+22. *P. ingens*
+23. *P. integrifolia*
+24. *P. kansuensis*
+- white
+- pink
+25. *P. lachnoglossa*
+26. *P. laiguensis*
+27. *P. latituba*
+28. *P. longiflora*
+- dots
+- without dots
+29. *P. lutescens*
+30. *P. macrosiphon*
+31. *P. metazetchuanica*
+32. *P. mussotii*
+33. *P. prezewalskii*
+34. *P. pseudomelampyriflora*
+35. *P. rex*
+36. *P. rhinanthoides*
+37. *P. rhodotricha*
+38. *P. rhynchodonta*
+39. *P. semitorta*
+40. *P. siphonantha*
+41. *P. souliei*
+42. *P. torta*
+43. *P. tricolor*
+44. *P. urceolata*
 
 
 
